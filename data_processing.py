@@ -7,7 +7,11 @@ def sum(a,b):
     return c
 print('the sum function')
 
-def subtract(a,b):
+def multiplication(a,b):
     d=a*b
     return a
 print('the multiplication fun')
+
+def division(a,b):
+    e=a/b
+    return a
